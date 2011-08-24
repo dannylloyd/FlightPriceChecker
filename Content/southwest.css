@@ -1,0 +1,56 @@
+﻿body 
+{
+    font-size: 12px;
+    font-family: Sans-Serif;
+    text-align:center;
+}
+form input, form select
+{
+    display: block;
+    margin: 10px 0;
+}
+ul.prices, ul.prices li
+{
+    list-style: none;
+    margin: 0;
+    font-size: 150%;
+}
+#search
+{
+    width: 300px;
+    margin: 0 auto;
+}
+#results ul.prices
+{
+    margin: 0 auto;
+    width: 300px;
+}
+table.searchResultsTable
+{
+    margin: 10px auto;
+    width: 900px;
+    border-collapse: collapse
+}
+.product_price
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+#priceItinerarySubmit
+{
+    height: 100px;
+    width: 700px;
+}
+#continue
+{
+    width: 701px;
+    margin: 0 auto;
+}
+#results ul, #results ul li
+{
+    list-style: none;
+}
+.shortShortcutTwoRows
+{
+    display: none;
+}
